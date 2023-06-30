@@ -8,7 +8,9 @@
     box-sizing: border-box;
 }
 @import 'colors';
+@import 'header';
 
 body{
     background-color: $primary;
+    color: $tertiary;
 }
