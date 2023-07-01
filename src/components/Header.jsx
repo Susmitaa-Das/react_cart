@@ -5,7 +5,7 @@ import {FiShoppingBag} from 'react-icons/fi'
 const Header = () => {
   return (
     <nav>
-      <h2>Logo Here...</h2>
+      <h2>Here is the logo...</h2>
 
       <div>
         <Link to={'/'}>Home</Link>
